@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862358064790",
+    "project_id": "classwork-week-16",
+    "storage_bucket": "classwork-week-16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862358064790:android:e22640f4643752158dfcb7",
+        "android_client_info": {
+          "package_name": "com.example.classwork_week16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBVQfPnZ23IqI7FUBih8-qut6LcrviST0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

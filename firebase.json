@@ -1,0 +1,29 @@
+{
+    "flutter":
+    {
+        "platforms":
+        {
+            "android":
+            {
+                "default":
+                {
+                    "projectId":"classwork-week-16",
+                    "appId":"1:862358064790:android:e22640f4643752158dfcb7",
+                    "fileOutput":"android/app/google-services.json"
+                }
+            },
+            "dart":
+            {
+                "lib/firebase_options.dart":
+                {
+                    "projectId":"classwork-week-16",
+                    "configurations":
+                    {
+                        "android":"1:862358064790:android:e22640f4643752158dfcb7",
+                        "web":"1:862358064790:web:0214153cdc35df078dfcb7"
+                    }
+                }
+            }
+        }
+    }
+}
